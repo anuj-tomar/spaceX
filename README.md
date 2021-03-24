@@ -1,2 +1,0 @@
-# spaceX
-Assignment
